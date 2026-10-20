@@ -1,0 +1,5 @@
+{
+  "_comment": "Bwa Bwei update manifest. Raise minimumVersion to hard-block older builds; raise latestVersion to show an optional 'update available' prompt (once per version). Use dotted versions, e.g. 1.2.0. The app fails open: if this file is unreachable or malformed, nothing is blocked.",
+  "minimumVersion": "0.0.0",
+  "latestVersion": "1.0"
+}
